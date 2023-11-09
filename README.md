@@ -97,9 +97,9 @@ GND is the ground pin.
 
 
 ## STM 32 CUBE PROGRAM :
-
-NAME:KISHORE M
-REG NO:212221043003
+```
+NAME:RAGUL E
+REG NO:212221043005
 #include "main.h"
 #include "Soil Moisture Sensor.h"
 #include "stdio.h"
